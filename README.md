@@ -4,7 +4,7 @@
 
 - 🙋‍♀️ I'm **Gabriela Nataline**, 28y, she/her.
 - 🌍 Brazilian from São Paulo, SP. 
-- 🌱 I’m currently learning **HTML,CSS and JS**.
+- 🌱 I’m currently learning **Java, HTML,CSS, JavaScript, Angular and MySQL**.
 
 <div align="center">
 <a href="https://github.com/gabrielanataline">
