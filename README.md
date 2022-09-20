@@ -1,3 +1,5 @@
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/gabrielanataline/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
+<h1 align="left">Hi, welcome <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
 <img align="right" alt="Coding" width="250" src="/Media/woman.gif"> 
 <img src="https://komarev.com/ghpvc/?username=gabrielanataline&label=Profile%20views&color=70A4FC&style=flat" alt="gabrielanataline" />
