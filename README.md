@@ -8,9 +8,11 @@
 - 🌍 Brazilian from São Paulo, SP. 
 - 🌱 I’m currently learning **Java, HTML, CSS, JavaScript, Angular and MySQL**.
 
-
+<div align="center">
+<a href="https://github.com/gabrielanataline">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielanataline&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielanataline&layout=compact&langs_count=7&theme=dracula"/>
+</div>
   
 ##
 
