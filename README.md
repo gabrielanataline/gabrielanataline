@@ -9,8 +9,8 @@
 - 🌱 I’m currently learning **Java, HTML, CSS, JavaScript, Angular and MySQL**.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielanataline&theme=panda&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielanataline&theme=panda&layout=compact)](https://github.com/gabrielanataline/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielanataline&theme=material-palenight&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielanataline&theme=material-palenight&layout=compact)](https://github.com/gabrielanataline/github-readme-stats)
 
 
 
