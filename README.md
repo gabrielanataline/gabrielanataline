@@ -8,20 +8,20 @@
 - 🌍 Brazilian from São Paulo, SP. 
 - 🌱 I’m currently learning **Java, HTML, CSS, JavaScript, Angular and MySQL**.
 
-<div align="center">
-  <a href="https://github.com/gabrielanataline">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielanataline&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielanataline&theme=dracula&show_icons=true)
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielanataline&layout=compact&langs_count=7&theme=dracula"/>
 
   
 
-
+<div align="center">
   
 ##
 
 <a href="https://instagram.com/gabies.___" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriela-nataline-souza-oliveira-8227b3117/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-![Snake animation](https://github.com/gabrielanataline/gabrielanataline/blob/output/github-contribution-grid-snake.svg)  </div>
+![Snake animation](https://github.com/gabrielanataline/gabrielanataline/blob/output/github-contribution-grid-snake.svg)  
     
     
    
