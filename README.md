@@ -6,7 +6,7 @@
 
 - 🙋‍♀️ I'm **Gabriela Nataline**, 28y, she/her.
 - 🌍 Brazilian from São Paulo, SP. 
-- 🌱 I’m currently learning **Java, HTML, CSS, JavaScript, Angular and MySQL**.
+- 🌱 I’m currently learning **Java, HTML, CSS, JavaScript, Angular, MySQL and C#**.
 
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielanataline&theme=dracula&show_icons=true)
