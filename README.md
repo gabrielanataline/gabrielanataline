@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="250" src="/Media/woman.gif"> 
 <img src="https://komarev.com/ghpvc/?username=gabrielanataline&label=Profile%20views&color=70A4FC&style=flat" alt="gabrielanataline" />
 
-- 🙋‍♀️ I'm **Gabriela Nataline**, 29y, she/her.
-- 🌍 Brazilian from São Paulo, SP. 
-- 🌱 I’m currently learning **, HTML, CSS, JavaScript, TypeScript, Angular, Firebase, Java, MySQL, Spring and C#**.
+- 🙋‍♀️ Eu sou **Gabriela Nataline**, 30 anos, ela/ela.
+- 🌍 Brasileira - São Paulo, SP. 
+- 🌱 Estou aprimorando meus conhecimentos na linguagem Java e aprendendo sobre AWS (Amazon Web Services). .
 
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielanataline&theme=dracula&show_icons=true)
