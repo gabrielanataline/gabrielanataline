@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="250" src="/Media/woman.gif"> 
 <img src="https://komarev.com/ghpvc/?username=gabrielanataline&label=Profile%20views&color=70A4FC&style=flat" alt="gabrielanataline" />
 
-- 🙋‍♀️ Eu sou **Gabriela Nataline**, 30 anos, ela/ela.
+- 🙋‍♀️ Eu sou **Gabriela Nataline**, 30 anos.
 - 🌍 Brasileira - São Paulo, SP. 
 - 🌱 Estou aprimorando meus conhecimentos na linguagem Java e aprendendo sobre AWS (Amazon Web Services). .
 
