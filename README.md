@@ -1,5 +1,5 @@
 
-<h1 align="left">Oi, Bem Vindo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
+<h1 align="left">Oi, Bem Vindo(a) <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
 <img align="right" alt="Coding" width="250" src="/Media/woman.gif"> 
 <img src="https://komarev.com/ghpvc/?username=gabrielanataline&label=Profile%20views&color=70A4FC&style=flat" alt="gabrielanataline" />
